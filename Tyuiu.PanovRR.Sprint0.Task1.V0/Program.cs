@@ -13,7 +13,7 @@ namespace Tyuiu.PanovRR.Sprint0.Task1.V0
             Console.WriteLine("Hello, World!");
             string name = "Рома";
             int age = 21;
-            Console.WriteLine("Привет, меня зовут " + name + " мне " + age + " год! " );
+            Console.WriteLine("Привет, меня зовут " + name + " и мне " + age + " год! " );
             Console.ReadKey();
         }
     }
